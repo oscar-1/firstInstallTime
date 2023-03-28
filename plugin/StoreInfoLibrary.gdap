@@ -1,0 +1,6 @@
+[config]
+
+name="StoreInfoLibrary"
+binary_type="local"
+binary="StoreInfoLibrary-debug.aar"
+
